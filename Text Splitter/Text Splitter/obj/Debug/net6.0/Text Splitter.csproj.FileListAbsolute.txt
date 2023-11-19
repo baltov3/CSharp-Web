@@ -1,0 +1,30 @@
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\bin\Debug\net6.0\appsettings.json
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\bin\Debug\net6.0\Text Splitter.staticwebassets.runtime.json
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\bin\Debug\net6.0\Text Splitter.exe
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\bin\Debug\net6.0\Text Splitter.deps.json
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\bin\Debug\net6.0\Text Splitter.runtimeconfig.json
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\bin\Debug\net6.0\Text Splitter.dll
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\bin\Debug\net6.0\Text Splitter.pdb
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.AssemblyInfoInputs.cache
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.AssemblyInfo.cs
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.csproj.CoreCompileInputs.cache
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.RazorAssemblyInfo.cache
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.RazorAssemblyInfo.cs
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\staticwebassets\msbuild.Text Splitter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\staticwebassets\msbuild.build.Text Splitter.props
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Text Splitter.props
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Text Splitter.props
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\scopedcss\bundle\Text Splitter.styles.css
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\scopedcss\projectbundle\Text Splitter.bundle.scp.css
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.dll
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\refint\Text Splitter.dll
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.pdb
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\Text Splitter.genruntimeconfig.cache
+C:\Users\balto\OneDrive\Documents\My Projects\Text Splitter\Text Splitter\obj\Debug\net6.0\ref\Text Splitter.dll

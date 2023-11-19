@@ -1,0 +1,17 @@
+﻿@model IEnumerable<ProductViewModel>
+@{
+    ViewData["Title"] = "All Products";
+}
+
+<div style="width: 18rem">
+    <div>
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li>
+                    N.@item.Id :@item.Name - @item.Price
+                </li>
+            }
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+﻿
+@model TextViewModel
+
+@{
+    ViewData["Title"] = "Text Splitter";
+}
+
+<div class="text-center mb-5">
+    <h1>Text Splitter</h1>
+</div>
+
+<div class="col-6">
+    <form asp-controller="Home" asp-action="Home/Split" method="post">
+        <div class="d-flex">
+            <input asp-for="Text" class="me-1 col-8" />
+            
+        </div>
+        <span asp-validation-for="@Model.Text" class="small text-danger col-2">
+        </span><br />
+        <button class="btn btn-primary col-4 ml-1" type="submit">
+            Split Text
+        </button>
+    </form>
+</div>
+<textarea readonly rows="10">
+    @Model.SplitText
+</textarea>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
